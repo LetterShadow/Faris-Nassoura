@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My name is Faris Nassoura
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a Business student with a Major in Finance. I plan on transitioning to Fintech. I am alreay familar with Ruby and currently learning Python
+- 🔭 I’m currently a Finance Major at the Stillman School of Business at Seton Hall University
+- 📚 I’m currently learning Python for its use in Fintech.
+- 👯 I’m looking for an internship in the Fintech field. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/faris-nassoura-008118202/?lipi=urn%3Ali%3Apage%3Ad_flagship3_resumebuilder%3BWzKOmgC7RtajsbdxDJYSZw%3D%3D) [Gmail](mailto:fnassoura@gmail.com)
 
-- 🔭 I’m currently a CS student at Mansoura Unversity.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
-
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+⭐️ 
