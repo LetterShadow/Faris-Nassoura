@@ -4,7 +4,7 @@
 
 I'm a Business student with a Major in Finance. I plan on transitioning to Fintech. I am already familar with Ruby and currently learning Python.
 - 🔭 I’m currently a Finance Major at the Stillman School of Business at Seton Hall University.
-- 📚 I’m pursuing learning Python for its use in Fintech.
+- 📚 I’m pursuing learning Python for its use in Fintech as it can aid in the wealth managment industry.
 - 👯 I’m looking for an internship in the Fintech field. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/faris-nassoura-008118202/?lipi=urn%3Ali%3Apage%3Ad_flagship3_resumebuilder%3BWzKOmgC7RtajsbdxDJYSZw%3D%3D) [Gmail](mailto:fnassoura@gmail.com)
 
